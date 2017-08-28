@@ -1,0 +1,9 @@
+Unoptimized model
+------
+Accuracy score on testing data: 0.8179
+F-score on testing data: 0.6266
+
+Optimized Model
+------
+Final accuracy score on the testing data: 0.8359
+Final F-score on the testing data: 0.6669
